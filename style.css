@@ -1,0 +1,24 @@
+#canvas {
+    margin: auto;
+    background: #ececec;
+    width: 100%;
+    height: auto;
+  }  
+.btn-disabled {
+    color: #fff !important;
+  }
+.custom-file-input{
+     margin: auto;
+     margin-top: 1%;
+     font-weight: bold;
+     width: 100%;
+     padding: 4px;
+     color: white;
+     text-align: center;
+     background: #800080;
+     cursor: pointer;
+}
+#upload-file {
+     display: none;
+}
+
